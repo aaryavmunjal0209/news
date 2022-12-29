@@ -1,0 +1,82 @@
+body{
+    height: 600 px;
+    width: 400px;
+    margin: auto;
+    margin-top: 10%;
+    text-align: center;
+    border: 2px solid rgb(211, 205, 205);
+    border-radius: 2%;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 50px;
+    padding-bottom: 40px;
+    padding-right: 30px;
+}
+.image{
+    height: 60px;
+    width: 120px;
+    position: relative;
+}
+h2{
+    color: rgb(48, 46, 46);
+    font-size: 24px;
+}
+.forgot{
+    color: rgb(51, 124, 192);
+    font-size: 15px;
+    text-align: left;
+    margin-left: 50px;
+    font-weight: 400;
+}
+.line{
+    color: rgb(70, 72, 72);
+    font-size: 13px;
+    margin-left: 15px;
+}
+.email{
+    color: rgb(70, 72, 72);
+}
+h3{
+    font-size: 15px;
+    color:rgb(51, 124, 192) ;
+    margin-left: 50px;
+    text-align: left;
+}
+.create{
+    color: rgb(90, 148, 201);
+    text-align: center;
+    padding-left: 50px;
+}
+.button{
+    background-color: rgb(85, 138, 187) ;
+    border: 2px solid rgb(255, 254, 254);
+    border-radius: 4px;
+    color: white;
+    margin-left: 50px;
+    text-align: center;
+    margin-top: 30px;
+    padding: 12px 25px;
+    font-size: 15px;
+    cursor: pointer;
+
+}
+.button:hover {
+    background-color: rgb(79, 129, 176) ;;
+}
+th{
+    color:rgb(51, 124, 192) ;
+    padding-left: 50px;
+    padding-top: 10px; 
+}
+input{
+    height: 40px;
+    width:  330px;
+    position: relative;
+    border: 2px solid rgb(211, 205, 205);
+    margin-left: 20px;
+}
+.one{
+    padding-top: 30px;
+}
+.two{
+    padding-left: 60px;
+}
